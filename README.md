@@ -97,6 +97,10 @@ images/output/binary.png
 
 a imagem `grayscale.png` contém os tons de cinza de 0 a 255. a imagem `binary.png` contém apenas pixels pretos e brancos, com valores 0 e 255.
 
+## resultado
+
+![resultado](images/result_example.png)
+
 ## explicação do threshold
 
 o threshold usado no projeto é 128.
